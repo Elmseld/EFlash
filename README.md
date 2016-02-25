@@ -1,4 +1,4 @@
-# elms-eflashmessage
+# EFlash
 
 Spara meddelanden i session och visar dem vid anrop. Används i Anax-MVC
 
